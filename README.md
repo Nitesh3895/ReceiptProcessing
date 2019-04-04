@@ -6,7 +6,7 @@ The sample run is shown below:
 ![](summary1.jpg)
 
 # Summary10.png
-![](summary10.jpg)
+![](summary10.png)
 
 # Summary5.png
 ![](summary5.png)
